@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**speedyk-005/speedyk-005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Speedyk, a software developer who enjoys building things, breaking them, and figuring out how they work.
 
-Here are some ideas to get you started:
+- 🛠️  Building creative tools, interactive projects, and systems that feel alive
+- 🐍 Python is my main language
+- 🎮 Interested in game development and learning GDScript/C#
+- 🎨 Drawing whenever code isn't consuming all my attention
+- 🎹 Musician and technology enthusiast
+- 🧪 I like exploring new technologies and turning ideas into prototypes
+- 🌍 Multilingual: Creole native, English strong, Spanish and French in progress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+
+![speedyk-005's GitHub Stats](https://github-readme-stats-zeta-red.vercel.app/api?username=speedyk-005&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats-zeta-red.vercel.app/api/top-langs/?username=speedyk-005&layout=compact&theme=transparent&hide_border=true)
+
+---
+
+> If I'm curious about it, I'll probably build it.
