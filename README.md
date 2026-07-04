@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Comet" width="120" align="right" />
 
-## Hi there 👋
+## Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10%"></a>
 
 I'm Speedyk, a software developer who enjoys building things, breaking them, and figuring out how they work.
 
