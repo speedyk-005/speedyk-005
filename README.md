@@ -1,6 +1,11 @@
+<img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Comet" width="120" align="right" />
+
 ## Hi there 👋
 
 I'm Speedyk, a software developer who enjoys building things, breaking them, and figuring out how they work.
+
+<!-- This clear tag makes sure any text BELOW this section doesn't get messed up by the floating image -->
+<br clear="right" />
 
 - 🛠️  Building creative tools, interactive projects, and systems that feel alive
 - 🐍 Python is my main language
@@ -17,4 +22,7 @@ I'm Speedyk, a software developer who enjoys building things, breaking them, and
 
 ---
 
-> If I'm curious about it, I'll probably build it.
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/315afd9b-24e5-4256-ba38-8da3616f7f5e" width="400">
+<br><br>
+
+> If I'm curious about it, I'll probably build it. 
