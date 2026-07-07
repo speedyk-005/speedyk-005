@@ -15,14 +15,14 @@ I'm Speedyk, a software developer who enjoys building things, breaking them, and
 - 🧪 I like exploring new technologies and turning ideas into prototypes
 - 🌍 Multilingual: Creole native, English strong, Spanish and French in progress
 
-## 📈 GitHub Stats
+## Stats and Activity <a href="https://github.com/Hunterdii"><img src="https://github.com/user-attachments/assets/b0f0a235-563d-41f2-95e9-0ebfb8e4ecbd" width="10%"></a>
 
 ![speedyk-005's GitHub Stats](https://github-readme-stats-zeta-red.vercel.app/api?username=speedyk-005&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats-zeta-red.vercel.app/api/top-langs/?username=speedyk-005&layout=compact&theme=transparent&hide_border=true)
 
----
-
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/315afd9b-24e5-4256-ba38-8da3616f7f5e" width="400">
 <br><br>
+
+---
 
 > If I'm curious about it, I'll probably build it. 
