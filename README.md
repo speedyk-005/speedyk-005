@@ -1,11 +1,20 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4cbe843d-f897-4968-a691-06f838c4a214" width="650" alt="Speedster"/>
+</p>
+
+<h1 align="center">
+ Speedyk-005 ⚡ 
+</h1>
+
+<p align="center">
+Software Developer • Python Enthusiast • Future Game Dev
+</p>
+
 <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Comet" width="120" align="right" />
 
-## Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10%"></a>
-
-I'm Speedyk, a software developer who enjoys building things, breaking them, and figuring out how they work.
-
-<!-- This clear tag makes sure any text BELOW this section doesn't get messed up by the floating image -->
-<br clear="right" />
+I build ideas until they either work...
+or teach me why they don't.
+In other way, I build projects worth remembering.
 
 - 🛠️  Building creative tools, interactive projects, and systems that feel alive
 - 🐍 Python is my main language
@@ -15,13 +24,16 @@ I'm Speedyk, a software developer who enjoys building things, breaking them, and
 - 🧪 I like exploring new technologies and turning ideas into prototypes
 - 🌍 Multilingual: Creole native, English strong, Spanish and French in progress
 
+---
+
 ## Stats and Activity <a href="https://github.com/Hunterdii"><img src="https://github.com/user-attachments/assets/b0f0a235-563d-41f2-95e9-0ebfb8e4ecbd" width="10%"></a>
 
 ![speedyk-005's GitHub Stats](https://github-readme-stats-zeta-red.vercel.app/api?username=speedyk-005&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats-zeta-red.vercel.app/api/top-langs/?username=speedyk-005&layout=compact&theme=transparent&hide_border=true)
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/315afd9b-24e5-4256-ba38-8da3616f7f5e" width="400">
+<img width="350" height="250" alt="Explosive" src="https://github.com/user-attachments/assets/4431c676-2edb-4c8e-a48e-5ddd2877f2fc" />
 
----
+## Philosophy <a><img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="50%"></a>
 
-> If I'm curious about it, I'll probably build it. 
+> Curiosity writes the first line.
+> Persistence finishes the project.
