@@ -21,7 +21,6 @@ I'm Speedyk, a software developer who enjoys building things, breaking them, and
 ![Top Languages](https://github-readme-stats-zeta-red.vercel.app/api/top-langs/?username=speedyk-005&layout=compact&theme=transparent&hide_border=true)
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/315afd9b-24e5-4256-ba38-8da3616f7f5e" width="400">
-<br><br>
 
 ---
 
