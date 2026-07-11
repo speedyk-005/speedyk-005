@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4cbe843d-f897-4968-a691-06f838c4a214" width="650" alt="Speedster"/>
+  <img width="490" height="280" alt="17837414671516235877436155828504" src="https://github.com/user-attachments/assets/8671f720-92ac-4578-904b-f09aeb62b6e6" />
+
 </p>
 
 <h1 align="center">
