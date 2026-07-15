@@ -28,8 +28,8 @@ In other way, I build projects worth remembering.
 
 ## Stats and Activity <a href="https://github.com/Hunterdii"><img src="https://github.com/user-attachments/assets/b0f0a235-563d-41f2-95e9-0ebfb8e4ecbd" width="10%"></a>
 
-![speedyk-005's GitHub Stats](https://github-readme-stats-zeta-red.vercel.app/api?username=speedyk-005&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats-zeta-red.vercel.app/api/top-langs/?username=speedyk-005&layout=compact&theme=transparent&hide_border=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=speedyk-005&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=speedyk-005&layout=compact&theme=radical&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=speedyk-005&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 <img width="350" height="250" alt="Explosive" src="https://github.com/user-attachments/assets/4431c676-2edb-4c8e-a48e-5ddd2877f2fc" />
