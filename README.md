@@ -32,7 +32,12 @@ In other way, I build projects worth remembering.
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=speedyk-005&layout=compact&theme=radical&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=speedyk-005&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
+<details>
+<summary>DO NOT CLICK.</summary>
+
 <img width="350" height="250" alt="Explosive" src="https://github.com/user-attachments/assets/4431c676-2edb-4c8e-a48e-5ddd2877f2fc" />
+
+</details>
 
 ## Philosophy 💡 
 
