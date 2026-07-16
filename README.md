@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="490" height="280" alt="17837414671516235877436155828504" src="https://github.com/user-attachments/assets/8671f720-92ac-4578-904b-f09aeb62b6e6" />
+  <img width="490" height="280" alt="Speedster running" src="https://github.com/user-attachments/assets/8671f720-92ac-4578-904b-f09aeb62b6e6" />
 </p>
 
 <h1 align="center">
@@ -10,7 +10,7 @@
 Software Developer • Python Enthusiast • Future Game Dev
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Comet" width="120" align="right" />
+<img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Falling comet" width="120" align="right" />
 
 I build ideas until they either work...
 or teach me why they don't.
@@ -35,7 +35,7 @@ In other way, I build projects worth remembering.
 <details>
 <summary>DO NOT CLICK.</summary>
 
-<img width="350" height="250" alt="Explosive" src="https://github.com/user-attachments/assets/4431c676-2edb-4c8e-a48e-5ddd2877f2fc" />
+<img width="350" height="250" alt="Canon ball explosion" src="https://github.com/user-attachments/assets/4431c676-2edb-4c8e-a48e-5ddd2877f2fc" />
 
 </details>
 
